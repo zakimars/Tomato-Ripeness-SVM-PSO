@@ -1,0 +1,8 @@
+# Extra packages for running deploy/sorter.py on a Raspberry Pi 4 (also needs: sudo apt install pigpio)
+-r requirements.txt
+pigpio
+adafruit-blinka
+adafruit-circuitpython-tcs34725
+RPLCD
+smbus2
+hx711
