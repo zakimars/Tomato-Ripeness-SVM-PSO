@@ -13,9 +13,6 @@ My final-year thesis in Electrical Engineering, Brawijaya University (2026).
   <img src="docs/images/lcd-output.webp" width="40%" alt="LCD showing a live classification: #20 Matang, M:11 S:5 T:4">
 </p>
 
-> The physical prototype is no longer available, so `deploy/sorter.py --simulate` reproduces the sorting loop on any computer.
-> Full thesis (Indonesian): [`docs/thesis.pdf`](docs/thesis.pdf).
-
 ## Results
 
 Test set: 77 readings (stratified 80/20 split of 381 readings).
